@@ -3,6 +3,10 @@
 
 module.exports = {
 
-  BooleanValidator: require('./lib/boolean-validator')
+  BooleanValidator: require('./lib/boolean-validator'),
+
+  ErrorValidator: require('./lib/error-validator'),
+
+  Error: require('./lib/error'),
 
 };

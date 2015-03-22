@@ -22,5 +22,8 @@
   "devDependencies": {
     "mocha": "^2.2.1",
     "should": "^5.2.0"
+  },
+  "dependencies": {
+    "node-custom-errors": "^0.1.5"
   }
 }
